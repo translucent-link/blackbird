@@ -1,5 +1,5 @@
 # blackbird
-Template for Chainlink External Adapters written in Go.
+Template for Chainlink External Adapters written in Go. Get an adapter deployed in under 10 minutes.
 
 ## Introduction
 
