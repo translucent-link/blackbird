@@ -23,7 +23,7 @@ Developers should customise the contents of [handler.go](handler.go) which conta
 
 3. Run the server locally
 
-        go run *.go
+        bin/run.sh
 
 You should be able to access the following URLs:
 - http://localhost:8080 - Main endpoint
@@ -31,6 +31,8 @@ You should be able to access the following URLs:
 - http://localhost:8080/metrics - Prometheus-based metrics endpoint
 
 ## Building & Shipping
+
+Please ensure you're using Go version 1.18.
 
 To dockerize and upload the Docker container image run the build script:
 
@@ -61,4 +63,4 @@ The example container is deployed at https://ethusd-example.fly.dev/.
 
 ## Support & Help
 
-Feel free open a [Github Issue](https://github.com/translucent-link/blackbird/issues) or come find us in the [Translucent Discord](https://discord.gg/RgxXeGuz).
+Feel free open a [Github Issue](https://github.com/translucent-link/blackbird/issues) or come find us in the [Translucent Discord](https://discord.gg/JxKT6R9Xpz).
