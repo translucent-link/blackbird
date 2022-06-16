@@ -61,6 +61,11 @@ To deploy an update to your external adapter
 
 The example container is deployed at https://ethusd-example.fly.dev/.
 
+## Go-based External Adapters
+
+Below is a list of Chainlink External Adapters crafted using Go:
+* [Stonechat](https://github.com/translucent-link/stonechat) - connecting Google Sheets to EVM blockchains
+
 ## Support & Help
 
 Feel free open a [Github Issue](https://github.com/translucent-link/blackbird/issues) or come find us in the [Translucent Discord](https://discord.gg/JxKT6R9Xpz).
